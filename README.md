@@ -21,10 +21,10 @@
 ## 적용 기술 및 구현 기능
 
 ### 적용 기술
-Frontend: React.js, Styled-Components, Hooks
+- Frontend: React.js, Styled-Components, Hooks
                 Kakao Map API, Kakao Login API, Chart.js
-Backend: Python, Django, MySQL, Bcrypt, pyJWT
-Common: POSTMAN, Notion
+- Backend: Python, Django, MySQL, Bcrypt, pyJWT
+- Common: POSTMAN, Notion
 
 ### 전체 구현 기능
 #### 메인페이지
